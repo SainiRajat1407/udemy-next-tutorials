@@ -1,5 +1,5 @@
 import MealItem from "./meal-item";
-import classes from './meal-item.module.css'
+import classes from './meals-grid.module.css'
 
 
 
